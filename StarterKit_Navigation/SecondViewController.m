@@ -7,6 +7,7 @@
 //
 
 #import "SecondViewController.h"
+#import "SecondTabModal.h"
 
 
 @implementation SecondViewController
@@ -47,6 +48,13 @@
 - (void)dealloc
 {
     [super dealloc];
+}
+
+#pragma mark - Custom methods
+
+- (IBAction)launchSecondTabModal {
+    SecondTabModal *secondTabModal = [[[SecondTabModal alloc] initWithNibName:@"SecondTabModal" bundle:nil] autorelease];
+    [self presentModalViewController:secondTabModal animated:YES];
 }
 
 @end

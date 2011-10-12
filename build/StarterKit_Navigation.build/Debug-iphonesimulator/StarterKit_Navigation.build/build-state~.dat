@@ -1,0 +1,499 @@
+TStarterKit_Navigation
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/Info.plist StarterKit_Navigation/StarterKit_Navigation-Info.plist
+cProcessPCH /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/StarterKit_Navigation-Prefix-dsuaidhxninitiffqxsfqkyusryw/StarterKit_Navigation-Prefix.pch.gch StarterKit_Navigation/StarterKit_Navigation-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/FirstViewController.o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FirstViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/main.o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/StarterKit_NavigationAppDelegate.o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/StarterKit_NavigationAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/SecondViewController.o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/SecondViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/ThirdViewController.o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/ThirdViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/FourthViewController.o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/FifthViewController.o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/StarterKit_Navigation normal i386
+cGenerateDSYMFile /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app.dSYM /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/StarterKit_Navigation
+cCopyStringsFile /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/en.lproj/InfoPlist.strings StarterKit_Navigation/en.lproj/InfoPlist.strings
+cCompileXIB /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/MainWindow.xib
+cCompileXIB /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/FirstView.xib
+cCompileXIB /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/SecondView.xib
+cCompileXIB /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/ThirdViewController.xib
+cCompileXIB /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.xib
+cCompileXIB /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.xib
+cTouch /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D93ED360000000000000110
+t1301540150
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93DF6900000000002999B0
+t1301536617
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93DFEA000000000029DA70
+t1301536746
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93DFDD0000000000001466
+t1301536733
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D93ECBE0000000000000AA1
+t1301540030
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D93ED1B0000000000766870
+t1301540123
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.h
+c000000004E95EC210000000000000101
+t1318448161
+s257
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.m
+c000000004E95EC210000000000001185
+t1318448161
+s4485
+i"FifthViewController.h"
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.xib
+c000000004E95EC210000000000001C84
+t1318448161
+s7300
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FirstViewController.h
+c000000004E95D86300000000000000F8
+t1318443107
+s248
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FirstViewController.m
+c000000004E95D86300000000000003DB
+t1318443107
+s987
+i"FirstViewController.h"
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.h
+c000000004E95EC120000000000000103
+t1318448146
+s259
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.m
+c000000004E95EC120000000000001188
+t1318448146
+s4488
+i"FourthViewController.h"
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.xib
+c000000004E95EC120000000000001C87
+t1318448146
+s7303
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/SecondViewController.h
+c000000004E95D86300000000000000FE
+t1318443107
+s254
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/SecondViewController.m
+c000000004E95D86300000000000003DE
+t1318443107
+s990
+i"SecondViewController.h"
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/StarterKit_Navigation-Prefix.pch
+c000000004E95D863000000000000015C
+t1318443107
+s348
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/StarterKit_NavigationAppDelegate.h
+c000000004E95D86300000000000001C5
+t1318443107
+s453
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/StarterKit_NavigationAppDelegate.m
+c000000004E95D8630000000000000B46
+t1318443107
+s2886
+i"StarterKit_NavigationAppDelegate.h"
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/ThirdViewController.h
+c000000004E95EBFE00000000000000FC
+t1318448126
+s252
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/ThirdViewController.m
+c000000004E95EBFE00000000000004BA
+t1318448126
+s1210
+i"ThirdViewController.h"
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/ThirdViewController.xib
+c000000004E95EBFE0000000000001874
+t1318448126
+s6260
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/FirstView.xib
+c000000004E95D8630000000000004BF2
+t1318443107
+s19442
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/InfoPlist.strings
+c000000004E95D863000000000000002D
+t1318443107
+s45
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/MainWindow.xib
+c000000004E95ED640000000000007820
+t1318448484
+s30752
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/SecondView.xib
+c000000004E95D86300000000000042B6
+t1318443107
+s17078
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/main.m
+c000000004E95D8630000000000000171
+t1318443107
+s369
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app.dSYM
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/FifthViewController.nib
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/FourthViewController.nib
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/Info.plist
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/PkgInfo
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/StarterKit_Navigation
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/ThirdViewController.nib
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/en.lproj/FirstView.nib
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/en.lproj/SecondView.nib
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/FifthViewController.o
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/FirstViewController.o
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/FourthViewController.o
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/SecondViewController.o
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/StarterKit_Navigation.LinkFileList
+c000000004E95ED64000000000000055C
+t1318448484
+s1372
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/StarterKit_NavigationAppDelegate.o
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/ThirdViewController.o
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/StarterKit_Navigation-Prefix-dsuaidhxninitiffqxsfqkyusryw/StarterKit_Navigation-Prefix.pch.gch
+t2
+s0
+
+NStarterKit_Navigation/StarterKit_Navigation-Info.plist
+c000000004E95D86300000000000004B5
+t1318443107
+s1205
+
+CBuild AST from /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.m
+r0
+
+CBuild AST from /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FirstViewController.m
+r0
+
+CBuild AST from /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.m
+r0
+
+CBuild AST from /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/SecondViewController.m
+r0
+
+CBuild AST from /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/StarterKit_NavigationAppDelegate.m
+r0
+
+CBuild AST from /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/ThirdViewController.m
+r0
+
+CBuild AST from /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesf6b532e42446b441^b0e78be42446b441^---0#1#0#--18"Check dependencies
+
+CCompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/FifthViewController.o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s340141286.060488
+e340141286.178884
+r1
+xCompileC
+xbuild/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/FifthViewController.o
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.m:86:2: warning: #warning Potentially incomplete method implementation.
+o/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.m:93:2: warning: #warning Incomplete method implementation.
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.ma69c0fe62446b441^3aae36e62446b441^-356"/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.m:86:2: warning: #warning Potentially incomplete method implementation./Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.m:93:2: warning: #warning Incomplete method implementation.2(21%IDEActivityLogMessage2@54"#warning Potentially incomplete method implementation.-340141286#0#184#-1#-23%DVTTextDocumentLocation3@129"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.m0000000000000000^85#18446744073709551615#85#18446744073709551615#18446744073709551615#0#10"#warning *--2@42"#warning Incomplete method implementation.-340141286#184#172#-1#-3@129"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.m0000000000000000^92#18446744073709551615#92#18446744073709551615#18446744073709551615#0#10"#warning *--0#0#0#-19%DVTDocumentLocation4@129"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.m0000000000000000^2815"CompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/FifthViewController.o StarterKit_Navigation/FifthViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-generated-files.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-own-target-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-all-target-headers.hmap -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-project-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/DerivedSources/i386 -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/DerivedSources -F/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator -include /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/StarterKit_Navigation-Prefix-dsuaidhxninitiffqxsfqkyusryw/StarterKit_Navigation-Prefix.pch -c /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.m -o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/FifthViewController.o
+
+CCompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/FirstViewController.o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FirstViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s340141285.576703
+e340141285.817063
+r1
+xCompileC
+xbuild/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/FirstViewController.o
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FirstViewController.md7c393e52446b441^c365d1e52446b441^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FirstViewController.m0000000000000000^2815"CompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/FirstViewController.o StarterKit_Navigation/FirstViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-generated-files.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-own-target-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-all-target-headers.hmap -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-project-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/DerivedSources/i386 -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/DerivedSources -F/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator -include /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/StarterKit_Navigation-Prefix-dsuaidhxninitiffqxsfqkyusryw/StarterKit_Navigation-Prefix.pch -c /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FirstViewController.m -o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/FirstViewController.o
+
+CCompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/FourthViewController.o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s340141285.922640
+e340141286.116363
+r1
+xCompileC
+xbuild/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/FourthViewController.o
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.m:86:2: warning: #warning Potentially incomplete method implementation.
+o/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.m:93:2: warning: #warning Incomplete method implementation.
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.m7a54ece52446b441^c4d11de62446b441^-358"/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.m:86:2: warning: #warning Potentially incomplete method implementation./Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.m:93:2: warning: #warning Incomplete method implementation.2(21%IDEActivityLogMessage2@54"#warning Potentially incomplete method implementation.-340141286#0#185#-1#-23%DVTTextDocumentLocation3@130"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.m0000000000000000^85#18446744073709551615#85#18446744073709551615#18446744073709551615#0#10"#warning *--2@42"#warning Incomplete method implementation.-340141286#185#173#-1#-3@130"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.m0000000000000000^92#18446744073709551615#92#18446744073709551615#18446744073709551615#0#10"#warning *--0#0#0#-19%DVTDocumentLocation4@130"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.m0000000000000000^2819"CompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/FourthViewController.o StarterKit_Navigation/FourthViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-generated-files.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-own-target-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-all-target-headers.hmap -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-project-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/DerivedSources/i386 -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/DerivedSources -F/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator -include /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/StarterKit_Navigation-Prefix-dsuaidhxninitiffqxsfqkyusryw/StarterKit_Navigation-Prefix.pch -c /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.m -o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/FourthViewController.o
+
+CCompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/SecondViewController.o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/SecondViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s340141285.817224
+e340141285.922194
+r1
+xCompileC
+xbuild/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/SecondViewController.o
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/SecondViewController.m0856d1e52446b441^f81cece52446b441^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/SecondViewController.m0000000000000000^2819"CompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/SecondViewController.o StarterKit_Navigation/SecondViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-generated-files.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-own-target-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-all-target-headers.hmap -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-project-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/DerivedSources/i386 -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/DerivedSources -F/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator -include /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/StarterKit_Navigation-Prefix-dsuaidhxninitiffqxsfqkyusryw/StarterKit_Navigation-Prefix.pch -c /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/SecondViewController.m -o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/SecondViewController.o
+
+CCompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/StarterKit_NavigationAppDelegate.o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/StarterKit_NavigationAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s340141285.721556
+e340141285.878930
+r1
+xCompileC
+xbuild/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/StarterKit_NavigationAppDelegate.o
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/StarterKit_NavigationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Compile /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/StarterKit_NavigationAppDelegate.m02d8b8e52446b441^aa0ae1e52446b441^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/StarterKit_NavigationAppDelegate.m0000000000000000^2867"CompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/StarterKit_NavigationAppDelegate.o StarterKit_Navigation/StarterKit_NavigationAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-generated-files.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-own-target-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-all-target-headers.hmap -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-project-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/DerivedSources/i386 -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/DerivedSources -F/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator -include /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/StarterKit_Navigation-Prefix-dsuaidhxninitiffqxsfqkyusryw/StarterKit_Navigation-Prefix.pch -c /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/StarterKit_NavigationAppDelegate.m -o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/StarterKit_NavigationAppDelegate.o
+
+CCompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/ThirdViewController.o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/ThirdViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s340141285.879563
+e340141286.058365
+r1
+xCompileC
+xbuild/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/ThirdViewController.o
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/ThirdViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/ThirdViewController.me484e1e52446b441^40bf0fe62446b441^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/ThirdViewController.m0000000000000000^2815"CompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/ThirdViewController.o StarterKit_Navigation/ThirdViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-generated-files.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-own-target-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-all-target-headers.hmap -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-project-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/DerivedSources/i386 -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/DerivedSources -F/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator -include /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/StarterKit_Navigation-Prefix-dsuaidhxninitiffqxsfqkyusryw/StarterKit_Navigation-Prefix.pch -c /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/ThirdViewController.m -o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/ThirdViewController.o
+
+CCompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/main.o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s340141285.577655
+e340141285.721137
+r1
+xCompileC
+xbuild/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/main.o
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/main.md2fe93e52446b441^fa9bb8e52446b441^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/main.m0000000000000000^2755"CompileC build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/main.o StarterKit_Navigation/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-generated-files.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-own-target-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-all-target-headers.hmap -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-project-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/DerivedSources/i386 -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/DerivedSources -F/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator -include /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/StarterKit_Navigation-Prefix-dsuaidhxninitiffqxsfqkyusryw/StarterKit_Navigation-Prefix.pch -c /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/main.m -o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/main.o
+
+CCompileXIB /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.xib
+s340141287.531569
+e340141287.560705
+r1
+xCompileXIB
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compiling /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.xibc32888e72446b441^3b8a8fe72446b441^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.xib0000000000000000^783"CompileXIB StarterKit_Navigation/FifthViewController.xib    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/FifthViewController.nib /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FifthViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.xib
+s340141287.500847
+e340141287.539379
+r1
+xCompileXIB
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compiling /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.xib904b80e72446b441^ad148ae72446b441^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.xib0000000000000000^786"CompileXIB StarterKit_Navigation/FourthViewController.xib    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/FourthViewController.nib /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/FourthViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/ThirdViewController.xib
+s340141287.464279
+e340141287.500702
+r1
+xCompileXIB
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/ThirdViewController.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compiling /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/ThirdViewController.xib52ee76e72446b441^122e80e72446b441^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/ThirdViewController.xib0000000000000000^783"CompileXIB StarterKit_Navigation/ThirdViewController.xib    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/ThirdViewController.nib /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/ThirdViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/FirstView.xib
+s340141286.389852
+e340141287.463802
+r1
+xCompileXIB
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/FirstView.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compiling /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/FirstView.xibf0e063e62446b441^a8c376e72446b441^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/FirstView.xib0000000000000000^780"CompileXIB StarterKit_Navigation/en.lproj/FirstView.xib    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/en.lproj/FirstView.nib /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/FirstView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/MainWindow.xib
+s340141286.385700
+e340141287.454339
+r1
+xCompileXIB
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compiling /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/MainWindow.xib36ce62e62446b441^335174e72446b441^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/MainWindow.xib0000000000000000^783"CompileXIB StarterKit_Navigation/en.lproj/MainWindow.xib    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/en.lproj/MainWindow.nib /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/SecondView.xib
+s340141287.454800
+e340141287.531263
+r1
+xCompileXIB
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/SecondView.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compiling /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/SecondView.xibc38174e72446b441^eb0088e72446b441^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/SecondView.xib0000000000000000^783"CompileXIB StarterKit_Navigation/en.lproj/SecondView.xib    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/en.lproj/SecondView.nib /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/SecondView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCopyStringsFile /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/en.lproj/InfoPlist.strings StarterKit_Navigation/en.lproj/InfoPlist.strings
+s340141286.385509
+e340141286.389708
+r1
+xCopyStringsFile
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/en.lproj/InfoPlist.strings
+xStarterKit_Navigation/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy StarterKit_Navigation/en.lproj/InfoPlist.stringscac362e62446b441^2dee63e62446b441^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/en.lproj/InfoPlist.strings0000000000000000^629"CopyStringsFile build/Debug-iphonesimulator/StarterKit_Navigation.app/en.lproj/InfoPlist.strings StarterKit_Navigation/en.lproj/InfoPlist.strings    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/en.lproj -- StarterKit_Navigation/en.lproj/InfoPlist.strings
+
+CGenerateDSYMFile /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app.dSYM /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/StarterKit_Navigation
+s340141286.289856
+e340141286.383316
+r1
+xGenerateDSYMFile
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app.dSYM
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/StarterKit_Navigation
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Generating /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app.dSYM494a4ae62446b441^817b62e62446b441^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app.dSYM0000204d2205f041^670"GenerateDSYMFile build/Debug-iphonesimulator/StarterKit_Navigation.app.dSYM build/Debug-iphonesimulator/StarterKit_Navigation.app/StarterKit_Navigation    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/StarterKit_Navigation -o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app.dSYM
+
+CLd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/StarterKit_Navigation normal i386
+s340141286.179093
+e340141286.289582
+r1
+xLd
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/StarterKit_Navigation
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection150"Link /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/StarterKit_Navigation39f12de62446b441^981556e62446b441^---0#0#0#--1221"Ld build/Debug-iphonesimulator/StarterKit_Navigation.app/StarterKit_Navigation normal i386    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator -F/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator -filelist /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/Objects-normal/i386/StarterKit_Navigation.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/StarterKit_Navigation
+
+CProcessInfoPlistFile /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/Info.plist StarterKit_Navigation/StarterKit_Navigation-Info.plist
+s340141284.552189
+e340141284.585995
+r1
+xProcessInfoPlistFile
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/Info.plist
+xStarterKit_Navigation/StarterKit_Navigation-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Process StarterKit_Navigation/StarterKit_Navigation-Info.plist72708de42446b441^26519be42446b441^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/StarterKit_Navigation-Info.plist0000000000000000^777"ProcessInfoPlistFile build/Debug-iphonesimulator/StarterKit_Navigation.app/Info.plist StarterKit_Navigation/StarterKit_Navigation-Info.plist    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility StarterKit_Navigation/StarterKit_Navigation-Info.plist -genpkginfo /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app/Info.plist
+
+CProcessPCH /Users/jeff/Library/Developer/Xcode/DerivedData/StarterKit_Navigation-bvegrcrocthxkdakwcbpprezmfhe/Index/PrecompiledHeaders/StarterKit_Navigation-Prefix-azmshvlaplbfyiehaapvlopvjtev_ast/StarterKit_Navigation-Prefix.pch.pth StarterKit_Navigation/StarterKit_Navigation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/StarterKit_Navigation-Prefix-dsuaidhxninitiffqxsfqkyusryw/StarterKit_Navigation-Prefix.pch.gch StarterKit_Navigation/StarterKit_Navigation-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s340141284.587602
+e340141285.576450
+r1
+xProcessPCH
+x/var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/StarterKit_Navigation-Prefix-dsuaidhxninitiffqxsfqkyusryw/StarterKit_Navigation-Prefix.pch.gch
+xStarterKit_Navigation/StarterKit_Navigation-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Precompile StarterKit_Navigation/StarterKit_Navigation-Prefix.pch2e8e96e42446b441^929193e52446b441^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/StarterKit_Navigation-Prefix.pch0000000000000000^2712"ProcessPCH /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/StarterKit_Navigation-Prefix-dsuaidhxninitiffqxsfqkyusryw/StarterKit_Navigation-Prefix.pch.gch StarterKit_Navigation/StarterKit_Navigation-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-generated-files.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-own-target-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-all-target-headers.hmap -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/StarterKit_Navigation-project-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/DerivedSources/i386 -I/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/StarterKit_Navigation.build/Debug-iphonesimulator/StarterKit_Navigation.build/DerivedSources -F/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator -c /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/StarterKit_Navigation/StarterKit_Navigation-Prefix.pch -o /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/StarterKit_Navigation-Prefix-dsuaidhxninitiffqxsfqkyusryw/StarterKit_Navigation-Prefix.pch.gch
+
+CTouch /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app
+s340141287.562484
+e340141287.595250
+r1
+xTouch
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Touch /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.appd81090e72446b441^136498e72446b441^---0#0#0#--414"Touch build/Debug-iphonesimulator/StarterKit_Navigation.app    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jeff/Documents/workspace/iPhoneWorkspace/StarterKit_Navigation/build/Debug-iphonesimulator/StarterKit_Navigation.app
+

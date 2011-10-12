@@ -18,6 +18,22 @@
 		1F906D7314460FE300D4483C /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F906D7214460FE300D4483C /* SecondViewController.m */; };
 		1F906D7614460FE300D4483C /* FirstView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F906D7414460FE300D4483C /* FirstView.xib */; };
 		1F906D7914460FE300D4483C /* SecondView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F906D7714460FE300D4483C /* SecondView.xib */; };
+		1F906D821446237F00D4483C /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F906D801446237F00D4483C /* ThirdViewController.m */; };
+		1F906D831446237F00D4483C /* ThirdViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F906D811446237F00D4483C /* ThirdViewController.xib */; };
+		1F906D871446239300D4483C /* FourthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F906D851446239300D4483C /* FourthViewController.m */; };
+		1F906D881446239300D4483C /* FourthViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F906D861446239300D4483C /* FourthViewController.xib */; };
+		1F906D8C144623A200D4483C /* FifthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F906D8A144623A100D4483C /* FifthViewController.m */; };
+		1F906D8D144623A200D4483C /* FifthViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F906D8B144623A100D4483C /* FifthViewController.xib */; };
+		1F906D9A144626CC00D4483C /* SecondTabModal.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F906D98144626CB00D4483C /* SecondTabModal.m */; };
+		1F906D9B144626CC00D4483C /* SecondTabModal.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F906D99144626CC00D4483C /* SecondTabModal.xib */; };
+		1F906DA0144626EE00D4483C /* ThirdTabModal.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F906D9E144626ED00D4483C /* ThirdTabModal.m */; };
+		1F906DA1144626EE00D4483C /* ThirdTabModal.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F906D9F144626ED00D4483C /* ThirdTabModal.xib */; };
+		1F906DA51446276A00D4483C /* FourthTabSecondPage.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F906DA31446276900D4483C /* FourthTabSecondPage.m */; };
+		1F906DA61446276A00D4483C /* FourthTabSecondPage.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F906DA41446276A00D4483C /* FourthTabSecondPage.xib */; };
+		1F906DAA1446279100D4483C /* FifthTabEmbeddedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F906DA81446279000D4483C /* FifthTabEmbeddedView.m */; };
+		1F906DAB1446279100D4483C /* FifthTabEmbeddedView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F906DA91446279100D4483C /* FifthTabEmbeddedView.xib */; };
+		1F906DAF1446281400D4483C /* FirstTabSecondPage.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F906DAD1446281300D4483C /* FirstTabSecondPage.m */; };
+		1F906DB01446281400D4483C /* FirstTabSecondPage.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F906DAE1446281300D4483C /* FirstTabSecondPage.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +54,30 @@
 		1F906D7214460FE300D4483C /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		1F906D7514460FE300D4483C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/FirstView.xib; sourceTree = "<group>"; };
 		1F906D7814460FE300D4483C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SecondView.xib; sourceTree = "<group>"; };
+		1F906D7F1446237F00D4483C /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		1F906D801446237F00D4483C /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
+		1F906D811446237F00D4483C /* ThirdViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ThirdViewController.xib; sourceTree = "<group>"; };
+		1F906D841446239300D4483C /* FourthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourthViewController.h; sourceTree = "<group>"; };
+		1F906D851446239300D4483C /* FourthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourthViewController.m; sourceTree = "<group>"; };
+		1F906D861446239300D4483C /* FourthViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FourthViewController.xib; sourceTree = "<group>"; };
+		1F906D89144623A100D4483C /* FifthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FifthViewController.h; sourceTree = "<group>"; };
+		1F906D8A144623A100D4483C /* FifthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FifthViewController.m; sourceTree = "<group>"; };
+		1F906D8B144623A100D4483C /* FifthViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FifthViewController.xib; sourceTree = "<group>"; };
+		1F906D97144626CB00D4483C /* SecondTabModal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondTabModal.h; sourceTree = "<group>"; };
+		1F906D98144626CB00D4483C /* SecondTabModal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondTabModal.m; sourceTree = "<group>"; };
+		1F906D99144626CC00D4483C /* SecondTabModal.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SecondTabModal.xib; sourceTree = "<group>"; };
+		1F906D9D144626ED00D4483C /* ThirdTabModal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdTabModal.h; sourceTree = "<group>"; };
+		1F906D9E144626ED00D4483C /* ThirdTabModal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdTabModal.m; sourceTree = "<group>"; };
+		1F906D9F144626ED00D4483C /* ThirdTabModal.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ThirdTabModal.xib; sourceTree = "<group>"; };
+		1F906DA21446276900D4483C /* FourthTabSecondPage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourthTabSecondPage.h; sourceTree = "<group>"; };
+		1F906DA31446276900D4483C /* FourthTabSecondPage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourthTabSecondPage.m; sourceTree = "<group>"; };
+		1F906DA41446276A00D4483C /* FourthTabSecondPage.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FourthTabSecondPage.xib; sourceTree = "<group>"; };
+		1F906DA71446279000D4483C /* FifthTabEmbeddedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FifthTabEmbeddedView.h; sourceTree = "<group>"; };
+		1F906DA81446279000D4483C /* FifthTabEmbeddedView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FifthTabEmbeddedView.m; sourceTree = "<group>"; };
+		1F906DA91446279100D4483C /* FifthTabEmbeddedView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FifthTabEmbeddedView.xib; sourceTree = "<group>"; };
+		1F906DAC1446281200D4483C /* FirstTabSecondPage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstTabSecondPage.h; sourceTree = "<group>"; };
+		1F906DAD1446281300D4483C /* FirstTabSecondPage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstTabSecondPage.m; sourceTree = "<group>"; };
+		1F906DAE1446281300D4483C /* FirstTabSecondPage.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FirstTabSecondPage.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,13 +126,27 @@
 			children = (
 				1F906D6814460FE300D4483C /* StarterKit_NavigationAppDelegate.h */,
 				1F906D6914460FE300D4483C /* StarterKit_NavigationAppDelegate.m */,
-				1F906D6B14460FE300D4483C /* MainWindow.xib */,
 				1F906D6E14460FE300D4483C /* FirstViewController.h */,
 				1F906D6F14460FE300D4483C /* FirstViewController.m */,
 				1F906D7114460FE300D4483C /* SecondViewController.h */,
 				1F906D7214460FE300D4483C /* SecondViewController.m */,
-				1F906D7414460FE300D4483C /* FirstView.xib */,
-				1F906D7714460FE300D4483C /* SecondView.xib */,
+				1F906D7F1446237F00D4483C /* ThirdViewController.h */,
+				1F906D801446237F00D4483C /* ThirdViewController.m */,
+				1F906D841446239300D4483C /* FourthViewController.h */,
+				1F906D851446239300D4483C /* FourthViewController.m */,
+				1F906D89144623A100D4483C /* FifthViewController.h */,
+				1F906D8A144623A100D4483C /* FifthViewController.m */,
+				1F906DAC1446281200D4483C /* FirstTabSecondPage.h */,
+				1F906DAD1446281300D4483C /* FirstTabSecondPage.m */,
+				1F906D97144626CB00D4483C /* SecondTabModal.h */,
+				1F906D98144626CB00D4483C /* SecondTabModal.m */,
+				1F906D9D144626ED00D4483C /* ThirdTabModal.h */,
+				1F906D9E144626ED00D4483C /* ThirdTabModal.m */,
+				1F906DA21446276900D4483C /* FourthTabSecondPage.h */,
+				1F906DA31446276900D4483C /* FourthTabSecondPage.m */,
+				1F906DA71446279000D4483C /* FifthTabEmbeddedView.h */,
+				1F906DA81446279000D4483C /* FifthTabEmbeddedView.m */,
+				1F906D8E144623AB00D4483C /* Nibs */,
 				1F906D6014460FE300D4483C /* Supporting Files */,
 			);
 			path = StarterKit_Navigation;
@@ -107,6 +161,24 @@
 				1F906D6614460FE300D4483C /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1F906D8E144623AB00D4483C /* Nibs */ = {
+			isa = PBXGroup;
+			children = (
+				1F906D6B14460FE300D4483C /* MainWindow.xib */,
+				1F906D7414460FE300D4483C /* FirstView.xib */,
+				1F906D7714460FE300D4483C /* SecondView.xib */,
+				1F906D811446237F00D4483C /* ThirdViewController.xib */,
+				1F906D861446239300D4483C /* FourthViewController.xib */,
+				1F906D8B144623A100D4483C /* FifthViewController.xib */,
+				1F906DAE1446281300D4483C /* FirstTabSecondPage.xib */,
+				1F906D99144626CC00D4483C /* SecondTabModal.xib */,
+				1F906D9F144626ED00D4483C /* ThirdTabModal.xib */,
+				1F906DA41446276A00D4483C /* FourthTabSecondPage.xib */,
+				1F906DA91446279100D4483C /* FifthTabEmbeddedView.xib */,
+			);
+			name = Nibs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -160,6 +232,14 @@
 				1F906D6D14460FE300D4483C /* MainWindow.xib in Resources */,
 				1F906D7614460FE300D4483C /* FirstView.xib in Resources */,
 				1F906D7914460FE300D4483C /* SecondView.xib in Resources */,
+				1F906D831446237F00D4483C /* ThirdViewController.xib in Resources */,
+				1F906D881446239300D4483C /* FourthViewController.xib in Resources */,
+				1F906D8D144623A200D4483C /* FifthViewController.xib in Resources */,
+				1F906D9B144626CC00D4483C /* SecondTabModal.xib in Resources */,
+				1F906DA1144626EE00D4483C /* ThirdTabModal.xib in Resources */,
+				1F906DA61446276A00D4483C /* FourthTabSecondPage.xib in Resources */,
+				1F906DAB1446279100D4483C /* FifthTabEmbeddedView.xib in Resources */,
+				1F906DB01446281400D4483C /* FirstTabSecondPage.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -174,6 +254,14 @@
 				1F906D6A14460FE300D4483C /* StarterKit_NavigationAppDelegate.m in Sources */,
 				1F906D7014460FE300D4483C /* FirstViewController.m in Sources */,
 				1F906D7314460FE300D4483C /* SecondViewController.m in Sources */,
+				1F906D821446237F00D4483C /* ThirdViewController.m in Sources */,
+				1F906D871446239300D4483C /* FourthViewController.m in Sources */,
+				1F906D8C144623A200D4483C /* FifthViewController.m in Sources */,
+				1F906D9A144626CC00D4483C /* SecondTabModal.m in Sources */,
+				1F906DA0144626EE00D4483C /* ThirdTabModal.m in Sources */,
+				1F906DA51446276A00D4483C /* FourthTabSecondPage.m in Sources */,
+				1F906DAA1446279100D4483C /* FifthTabEmbeddedView.m in Sources */,
+				1F906DAF1446281400D4483C /* FirstTabSecondPage.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -294,6 +382,7 @@
 				1F906D7E14460FE300D4483C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

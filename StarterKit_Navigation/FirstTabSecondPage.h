@@ -1,5 +1,5 @@
 //
-//  SecondViewController.h
+//  FirstTabSecondPage.h
 //  StarterKit_Navigation
 //
 //  Created by jeff.wilson on 10/12/11.
@@ -9,10 +9,8 @@
 #import <UIKit/UIKit.h>
 
 
-@interface SecondViewController : UIViewController {
+@interface FirstTabSecondPage : UIViewController {
     
 }
-
-- (IBAction)launchSecondTabModal;
 
 @end
