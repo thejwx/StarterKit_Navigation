@@ -7,6 +7,7 @@
 //
 
 #import "FirstViewController.h"
+#import "StarterKit_NavigationAppDelegate.h"
 
 
 @implementation FirstViewController
@@ -49,4 +50,8 @@
     [super dealloc];
 }
 
+- (IBAction)switchTabs:(id)sender {
+    StarterKit_NavigationAppDelegate *appDelegate = (StarterKit_NavigationAppDelegate*) [[UIApplication sharedApplication] delegate];
+    [appDelegate switchToTab:1];
+}
 @end

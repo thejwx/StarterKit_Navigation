@@ -84,4 +84,9 @@
 }
 */
 
+- (void) switchToTab:(int)index
+{
+    [_tabBarController setSelectedIndex:index];
+}
+
 @end
