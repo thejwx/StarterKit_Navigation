@@ -7,15 +7,21 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "SecondTabModal.h"
 
 
-@interface SecondViewController : UIViewController {
+@interface SecondViewController : UIViewController <SecondTabModalDelegate> {
     
+    UILabel *modalReturnText;
 }
+
+@property (nonatomic, retain) IBOutlet UILabel *modalReturnText;
 
 - (IBAction)launchSecondTabModal_fromBottom;
 - (IBAction)launchSecondTabModal_withFade;
 - (IBAction)launchSecondTabModal_withFlip;
 - (IBAction)launchSecondTabModal_withPageCurl;
+- (void)didFinish:(NSString *)text;
+
 
 @end

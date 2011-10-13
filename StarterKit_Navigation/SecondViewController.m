@@ -11,6 +11,7 @@
 
 
 @implementation SecondViewController
+@synthesize modalReturnText;
 
 /*
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
@@ -38,6 +39,7 @@
 
 - (void)viewDidUnload
 {
+    [self setModalReturnText:nil];
     [super viewDidUnload];
 
     // Release any retained subviews of the main view.
@@ -47,6 +49,7 @@
 
 - (void)dealloc
 {
+    [modalReturnText release];
     [super dealloc];
 }
 
@@ -54,26 +57,40 @@
 
 - (IBAction)launchSecondTabModal_fromBottom {
     SecondTabModal *secondTabModal = [[[SecondTabModal alloc] initWithNibName:@"SecondTabModal" bundle:nil] autorelease];
+    [secondTabModal setDelegate:self];
     [secondTabModal setModalTransitionStyle:UIModalTransitionStyleCoverVertical];
     [self presentModalViewController:secondTabModal animated:YES];
 }
 
 - (IBAction)launchSecondTabModal_withFade {
     SecondTabModal *secondTabModal = [[[SecondTabModal alloc] initWithNibName:@"SecondTabModal" bundle:nil] autorelease];
+    [secondTabModal setDelegate:self];
     [secondTabModal setModalTransitionStyle:UIModalTransitionStyleCrossDissolve];
     [self presentModalViewController:secondTabModal animated:YES];
 }
 
 - (IBAction)launchSecondTabModal_withFlip {
     SecondTabModal *secondTabModal = [[[SecondTabModal alloc] initWithNibName:@"SecondTabModal" bundle:nil] autorelease];
+    [secondTabModal setDelegate:self];
     [secondTabModal setModalTransitionStyle:UIModalTransitionStyleFlipHorizontal];
     [self presentModalViewController:secondTabModal animated:YES];
 }
 
 - (IBAction)launchSecondTabModal_withPageCurl {
     SecondTabModal *secondTabModal = [[[SecondTabModal alloc] initWithNibName:@"SecondTabModal" bundle:nil] autorelease];
+    [secondTabModal setDelegate:self];
     [secondTabModal setModalTransitionStyle:UIModalTransitionStylePartialCurl];
     [self presentModalViewController:secondTabModal animated:YES];
+}
+
+#pragma mark - Modal methods
+
+- (void)didFinish:(NSString *)text
+{
+    if ([text isEqualToString:@""]) {
+        text = @"nada";
+    }
+    self.modalReturnText.text = [NSString stringWithFormat:@"Modal say, \"%@\"", text];
 }
 
 @end

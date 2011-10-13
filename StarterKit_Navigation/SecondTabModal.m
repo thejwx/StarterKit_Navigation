@@ -10,6 +10,8 @@
 
 
 @implementation SecondTabModal
+@synthesize delegate;
+@synthesize typeSomethingPlease;
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -22,6 +24,7 @@
 
 - (void)dealloc
 {
+    [typeSomethingPlease release];
     [super dealloc];
 }
 
@@ -43,6 +46,7 @@
 
 - (void)viewDidUnload
 {
+    [self setTypeSomethingPlease:nil];
     [super viewDidUnload];
     // Release any retained subviews of the main view.
     // e.g. self.myOutlet = nil;
@@ -58,6 +62,7 @@
 
 - (IBAction)closeModal:(id)sender 
 {
+    [self.delegate didFinish:[[self typeSomethingPlease] text]];
     [self dismissModalViewControllerAnimated:TRUE];
 }
 
