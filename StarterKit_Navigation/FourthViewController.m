@@ -51,10 +51,10 @@
     
     itemList = [[NSMutableArray alloc] init];
     items = [[NSArray arrayWithObjects:
-              [NSDictionary dictionaryWithObjectsAndKeys:@"Jane Smith", @"name", nil],
-              [NSDictionary dictionaryWithObjectsAndKeys:@"Fred Jones", @"name", nil],
-              [NSDictionary dictionaryWithObjectsAndKeys:@"Chris Stevenson", @"name", nil],
-              [NSDictionary dictionaryWithObjectsAndKeys:@"Orlando Wilson", @"name", nil],
+              [NSDictionary dictionaryWithObjectsAndKeys:@"Jane Smith", @"name", @"32", @"age", nil],
+              [NSDictionary dictionaryWithObjectsAndKeys:@"Fred Jones", @"name", @"49", @"age", nil],
+              [NSDictionary dictionaryWithObjectsAndKeys:@"Chris Stevenson", @"name", @"26", @"age", nil],
+              [NSDictionary dictionaryWithObjectsAndKeys:@"Orlando Wilson", @"name", @"67", @"age", nil],
               nil] retain];
     [itemList addObject:items];
 
@@ -179,8 +179,8 @@
     
     self.navigationItem.backBarButtonItem = [[[UIBarButtonItem alloc] initWithTitle:@"Back"style:UIBarButtonItemStylePlain target:nil action:nil] autorelease];
     FourthTabSecondPage *fourthTabSecondPage = [[FourthTabSecondPage alloc] initWithNibName:@"FourthTabSecondPage" bundle:nil];
-    fourthTabSecondPage.navigationItem.title = @"4th Tab 2nd Page";
-    fourthTabSecondPage.name_label_text = [[[itemList objectAtIndex:indexPath.section] objectAtIndex:indexPath.row] objectForKey:@"name"];
+    fourthTabSecondPage.navigationItem.title = [[[itemList objectAtIndex:indexPath.section] objectAtIndex:indexPath.row] objectForKey:@"name"];
+    fourthTabSecondPage.age_label_text = [[[itemList objectAtIndex:indexPath.section] objectAtIndex:indexPath.row] objectForKey:@"age"];
     [self.navigationController pushViewController:fourthTabSecondPage animated:YES];
     
 }

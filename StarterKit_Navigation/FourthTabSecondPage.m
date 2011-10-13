@@ -10,7 +10,7 @@
 
 
 @implementation FourthTabSecondPage
-@synthesize name_label, name_label_text;
+@synthesize age_label, age_label_text;
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -23,7 +23,8 @@
 
 - (void)dealloc
 {
-    [name_label release];
+    [age_label release];
+    [age_label_text release];
     [super dealloc];
 }
 
@@ -41,12 +42,13 @@
 {
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
-    [name_label setText:name_label_text];
+    [age_label setText:[NSString stringWithFormat:@"This person is %@ years old.", age_label_text]];
 }
 
 - (void)viewDidUnload
 {
-    [self setName_label:nil];
+    [self setAge_label:nil];
+    [self setAge_label_text:nil];
     [super viewDidUnload];
     // Release any retained subviews of the main view.
     // e.g. self.myOutlet = nil;

@@ -11,10 +11,10 @@
 
 @interface FourthTabSecondPage : UIViewController {
     
-    UILabel *name_label;
-    NSString *name_label_text;
+    UILabel *age_label;
+    NSString *age_label_text;
 }
-@property (nonatomic, retain) IBOutlet UILabel *name_label;
-@property (nonatomic, retain) NSString *name_label_text;
+@property (nonatomic, retain) IBOutlet UILabel *age_label;
+@property (nonatomic, retain) NSString *age_label_text;
 
 @end
