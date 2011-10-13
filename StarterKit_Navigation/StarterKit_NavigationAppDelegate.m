@@ -7,6 +7,7 @@
 //
 
 #import "StarterKit_NavigationAppDelegate.h"
+#import "ThirdTabModal.h"
 
 @implementation StarterKit_NavigationAppDelegate
 
@@ -19,6 +20,7 @@
 {
     // Override point for customization after application launch.
     // Add the tab bar controller's current view as a subview of the window
+    [self addCenterTab:[UIImage imageNamed:@"centerTab.png"]];
     self.window.rootViewController = self.tabBarController;
     [self.window makeKeyAndVisible];
     return YES;
@@ -87,6 +89,34 @@
 - (void) switchToTab:(int)index
 {
     [_tabBarController setSelectedIndex:index];
+}
+
+
+- (void) launchThirdTabModal
+{
+    ThirdTabModal *thirdTabModal = [[[ThirdTabModal alloc] initWithNibName:@"ThirdTabModal" bundle:nil] autorelease];
+    [_tabBarController presentModalViewController:thirdTabModal animated:YES];
+}
+
+// Create a custom UIButton and add it to the center of our tab bar
+-(void) addCenterTab:(UIImage*)image
+{
+    UIButton* buttonForCenterTab = [UIButton buttonWithType:UIButtonTypeCustom];
+    buttonForCenterTab.frame = CGRectMake(0, 0, image.size.width, image.size.height);
+    [buttonForCenterTab setBackgroundImage:image forState:UIControlStateNormal];
+    [buttonForCenterTab addTarget:self action:@selector(launchThirdTabModal) forControlEvents:UIControlEventTouchUpInside];
+    
+    CGFloat delta = image.size.height - _tabBarController.tabBar.frame.size.height;
+    if (delta < 0)
+        buttonForCenterTab.center = _tabBarController.tabBar.center;
+    else
+    {
+        CGPoint center = _tabBarController.tabBar.center;
+        center.y = center.y - delta/2.0;
+        buttonForCenterTab.center = center;
+    }
+    
+    [_tabBarController.view addSubview:buttonForCenterTab];
 }
 
 @end

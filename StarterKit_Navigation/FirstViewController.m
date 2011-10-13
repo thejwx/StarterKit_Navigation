@@ -54,4 +54,5 @@
     StarterKit_NavigationAppDelegate *appDelegate = (StarterKit_NavigationAppDelegate*) [[UIApplication sharedApplication] delegate];
     [appDelegate switchToTab:1];
 }
+
 @end

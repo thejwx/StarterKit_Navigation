@@ -17,5 +17,7 @@
 @property (nonatomic, retain) IBOutlet UITabBarController *tabBarController;
 
 - (void) switchToTab:(int)index;
+- (void) switchToTab1;
+- (void) addCenterTab:(UIImage*)image;
 
 @end
