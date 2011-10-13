@@ -13,6 +13,9 @@
     
 }
 
-- (IBAction)launchSecondTabModal;
+- (IBAction)launchSecondTabModal_fromBottom;
+- (IBAction)launchSecondTabModal_withFade;
+- (IBAction)launchSecondTabModal_withFlip;
+- (IBAction)launchSecondTabModal_withPageCurl;
 
 @end

@@ -52,8 +52,27 @@
 
 #pragma mark - Custom methods
 
-- (IBAction)launchSecondTabModal {
+- (IBAction)launchSecondTabModal_fromBottom {
     SecondTabModal *secondTabModal = [[[SecondTabModal alloc] initWithNibName:@"SecondTabModal" bundle:nil] autorelease];
+    [secondTabModal setModalTransitionStyle:UIModalTransitionStyleCoverVertical];
+    [self presentModalViewController:secondTabModal animated:YES];
+}
+
+- (IBAction)launchSecondTabModal_withFade {
+    SecondTabModal *secondTabModal = [[[SecondTabModal alloc] initWithNibName:@"SecondTabModal" bundle:nil] autorelease];
+    [secondTabModal setModalTransitionStyle:UIModalTransitionStyleCrossDissolve];
+    [self presentModalViewController:secondTabModal animated:YES];
+}
+
+- (IBAction)launchSecondTabModal_withFlip {
+    SecondTabModal *secondTabModal = [[[SecondTabModal alloc] initWithNibName:@"SecondTabModal" bundle:nil] autorelease];
+    [secondTabModal setModalTransitionStyle:UIModalTransitionStyleFlipHorizontal];
+    [self presentModalViewController:secondTabModal animated:YES];
+}
+
+- (IBAction)launchSecondTabModal_withPageCurl {
+    SecondTabModal *secondTabModal = [[[SecondTabModal alloc] initWithNibName:@"SecondTabModal" bundle:nil] autorelease];
+    [secondTabModal setModalTransitionStyle:UIModalTransitionStylePartialCurl];
     [self presentModalViewController:secondTabModal animated:YES];
 }
 
